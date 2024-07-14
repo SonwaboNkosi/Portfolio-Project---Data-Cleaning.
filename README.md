@@ -1,8 +1,8 @@
-Title: World Layoffs Data Cleaning: A MySQL Project 
+Title: World Layoffs Data Cleaning and exploration: A MySQL Project 
 
 Description:
 
-This project tackles data cleaning of the "World Layoffs - 2022" dataset retrieved from Kaggle (https://www.kaggle.com/datasets/swaptr/layoffs-2022). It demonstrates my proficiency in MySQL for data wrangling and manipulation.
+This project tackles data cleaning and exploration of the "World Layoffs - 2022" dataset retrieved from Kaggle (https://www.kaggle.com/datasets/swaptr/layoffs-2022). It demonstrates my proficiency in MySQL for data wrangling and manipulation.
 
 Features:
 
